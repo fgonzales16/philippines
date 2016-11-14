@@ -29,6 +29,7 @@ Cordillera Administrative Region:
   - Ifugao
   - Kalinga
   - Mountain Province
+  - Baguio
 
 Ilocos Region:
 
@@ -36,6 +37,12 @@ Ilocos Region:
     - Ilocos Sur
     - La Union
     - Pangasinan
+    - Alaminos
+    - Batac
+    - Candon
+    - Dagupan
+    - Laoag
+    - San Carlos
 
 Cagayan Valley:
     - Batanes
@@ -43,6 +50,10 @@ Cagayan Valley:
     - Isabela
     - Nueva Vizcaya
     - Quirino
+    - Batanes
+    - Cagayan
+    - Isabela
+    - Nueva Vizcaya
 
 Central Luzon:
 
@@ -53,6 +64,20 @@ Central Luzon:
     - Pampanga
     - Tarlac
     - Zambales
+    - Angeles
+    - Balanga
+    - Cabanatuan
+    - Gapan
+    - Mabalacat
+    - Malolos
+    - Meycauayan
+    - Muñoz
+    - Olongapo
+    - Palayan
+    - San Fernando
+    - San Jose
+    - San Jose Del Monte
+    - Tarlac City
 
 CALABARZON:
 
@@ -61,6 +86,25 @@ CALABARZON:
     - Laguna
     - Quezon
     - Rizal
+    - Antipolo
+    - Bacoor
+    - Batangas City
+    - Biñan
+    - Cabuyao
+    - Calamba
+    - Cavite City
+    - Dasmariñas
+    - General Trias
+    - Imus
+    - Lipa
+    - Lucena
+    - San Pablo
+    - San Pedro
+    - San Rosa
+    - Tagaytay
+    - Tanauan
+    - Tayabas
+    - Trece Martires
 
 MIMAROPA:
 
@@ -78,6 +122,13 @@ Bicol Region:
     - Catanduanes
     - Masbate
     - Sorsogon
+    - Iriga City
+    - Legazpi City
+    - Ligao City
+    - Masbate City
+    - Naga City
+    - Sorsogon City
+    - Tabaco City
 
 Western Visayas:
 
@@ -87,6 +138,8 @@ Western Visayas:
     - Guimaras
     - Iloilo
     - Negros Occidental
+    - Passi
+    - Roxas
 
 Central Visayas:
 
@@ -94,6 +147,16 @@ Central Visayas:
     - Cebu
     - Negros Oriental
     - Siquijor
+    - Cebu City
+    - Lapu-Lapu
+    - Mandaue
+    - Bogo
+    - Carcar
+    - Danao
+    - Naga
+    - Tagbilaran
+    - Talisay
+    - Toledo
 
 Eastern Visayas:
 
@@ -103,12 +166,24 @@ Eastern Visayas:
     - Northern Samar
     - Samar
     - Southern Leyte
+    - Baybay
+    - Borongan
+    - Calbayog
+    - Catbalogan
+    - Maasin
+    - Ormoc
+    - Tacloban
 
 Zamboanga Peninsula:
 
     - Zamboanga del Norte
     - Zamboanga del Sur
     - Zamboanga Sibugay
+    - Dapitan
+    - Dipolog
+    - Isabela
+    - Pagadian
+    - Zamboanga City
 
 Northern Midnanao:
 
@@ -117,6 +192,8 @@ Northern Midnanao:
     - Lanao del Norte
     - Misamis Occidental
     - Misamis Oriental
+    - Cagayan de Oro 
+    - Iligan
 
 Davao Region:
 
@@ -124,6 +201,13 @@ Davao Region:
     - Davao del Norte
     - Davao del Sur
     - Davao Oriental
+    - Davao Occidental
+    - Davao City
+    - Digos 
+    - Marti
+    - Panabo
+    - Samal
+    - Tagum
 
 SOCCSKSARGEN:
 
@@ -131,6 +215,7 @@ SOCCSKSARGEN:
     - Sarangani
     - South Cotabato
     - Sultan Kudarat
+    - General Santos City
 
 Caraga Region:
 
@@ -139,6 +224,7 @@ Caraga Region:
     - Dinagat Islands
     - Surigao del Norte
     - Surigao del Sur
+    - Butuan
 
 Autonomous Region in Muslim Mindanao:
 
